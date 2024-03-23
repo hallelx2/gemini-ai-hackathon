@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 google-generativeai = "*"
 fastapi = "*"
+markdown = "*"
+ipython = "*"
+bs4 = "*"
+selenium = "*"
+webdriver-manager = "*"
 
 [dev-packages]
 
